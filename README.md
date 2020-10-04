@@ -7,7 +7,7 @@
 
 🦾 During my career, I had the opportunity to work in some of the most customer focused companies in the world, which has made me a firm advocate for **sustainable and resilient products**.
 
-👨‍🏫 I am a firm advocate for engineering excellence, which has led me to kick-off multiple initiatives to level-up my peers and teams such as engineering practices, on-call retrospectives, brown-bag presentations, mentoring.
+👨‍🏫 I am a firm advocate for engineering excellence, which has led me to kick-off multiple initiatives to level-up my peers and teams such as **engineering practices, on-call retrospectives, brown-bag presentations, mentoring**.
 
 ---
 
