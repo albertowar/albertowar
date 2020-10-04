@@ -2,9 +2,9 @@
 
 ![Header](resources/header.png)
 
+## 📖 About me
 <img align='right' src="https://media.giphy.com/media/xT5LMwGBmInO6eNhpm/giphy.gif" width="250">
 
-## 📖 About me
 - 👨‍💻 I am a Software Engineer with extensive experience on highly scalable distributed systems in domains such as **networking, publishing and e-commerce**.
 
 - 🦾 During my career, I had the opportunity to work in some of the most customer focused companies in the world, which has made me a firm advocate for **sustainable and resilient products**.
