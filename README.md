@@ -18,6 +18,7 @@
 ![](https://img.shields.io/badge/Programming-Java-informational?style=for-the-badge&logo=Java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Programming-Python-informational?style=for-the-badge&logo=Python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Programming-Javascript-informational?style=for-the-badge&logo=Javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Web-React-informational?style=for-the-badge&logo=React&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Azure-informational?style=for-the-badge&logo=Microsoft%20Azure&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=for-the-badge&logo=Amazon%20AWS&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DevOps-Jenkins-informational?style=for-the-badge&logo=Jenkins&logoColor=white&color=2bbc8a)
