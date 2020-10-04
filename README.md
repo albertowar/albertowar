@@ -2,16 +2,18 @@
 
 ![Header](resources/header.png)
 
-## About me
-👨‍💻 I am a Software Engineer with extensive experience on highly scalable distributed systems in domains such as **networking, publishing and e-commerce**.
+<img align='right' src="https://media.giphy.com/media/xT5LMwGBmInO6eNhpm/giphy.gif" width="250">
 
-🦾 During my career, I had the opportunity to work in some of the most customer focused companies in the world, which has made me a firm advocate for **sustainable and resilient products**.
+## 📖 About me
+- 👨‍💻 I am a Software Engineer with extensive experience on highly scalable distributed systems in domains such as **networking, publishing and e-commerce**.
 
-👨‍🏫 I am a firm advocate for engineering excellence, which has led me to kick-off multiple initiatives to level-up my peers and teams such as **engineering practices, on-call retrospectives, brown-bag presentations, mentoring**.
+- 🦾 During my career, I had the opportunity to work in some of the most customer focused companies in the world, which has made me a firm advocate for **sustainable and resilient products**.
+
+- 👨‍🏫 I am a firm advocate for engineering excellence, which has led me to kick-off multiple initiatives to level-up my peers and teams such as **engineering practices, on-call retrospectives, brown-bag presentations, mentoring**.
 
 ---
 
-## My tech stack
+## 🔧 My tech stack
 ![](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=Linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=for-the-badge&logo=Windows&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Programming-CSharp-informational?style=for-the-badge&logo=C%20Sharp&logoColor=white&color=2bbc8a)
@@ -30,7 +32,7 @@
 
 ---
 
-## My blog posts
+## ✍ Blog & Writing
  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@albertowar/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@albertowar/0" alt="Recent Article 0" /> 
 
 ---
