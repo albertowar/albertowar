@@ -28,9 +28,9 @@
 ---
 
 ## My blog posts
-- [Lessons learnt from my first mob programming session](https://dev.to/albertowar/lessons-learnt-from-my-first-mob-programming-session-5hjf)
----
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@albertowar/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@albertowar/0" alt="Recent Article 0" /> 
 
+---
 
 <p align="center">
     <a href="https://twitter.com/Alb_Erc">
