@@ -21,6 +21,8 @@
 ![](https://img.shields.io/badge/Web-React-informational?style=for-the-badge&logo=React&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Azure-informational?style=for-the-badge&logo=Microsoft%20Azure&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=for-the-badge&logo=Amazon%20AWS&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Databases-MySQL-informational?style=for-the-badge&logo=MySQL&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Databases-Redis-informational?style=for-the-badge&logo=Redis&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DevOps-Jenkins-informational?style=for-the-badge&logo=Jenkins&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DevOps-GitHub%20Actions-informational?style=for-the-badge&logo=GitHub&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Monitoring-NewRelic-informational?style=for-the-badge&logo=New%20Relic&logoColor=white&color=2bbc8a)
