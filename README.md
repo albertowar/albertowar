@@ -45,7 +45,3 @@
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
     </a>
 </p>
-
-<p align="center">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=albertowar.albertowar" alt="visitor badge"/>
-</p>
