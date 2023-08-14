@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋🤠</h1>
 
-<img src="resources/header.png" width="572" height="381" />
+<img align="center" src="resources/header.png" width="572" height="381" />
 
 ## 📖 About me
 <img align='right' src="https://media.giphy.com/media/xT5LMwGBmInO6eNhpm/giphy.gif" width="250">
